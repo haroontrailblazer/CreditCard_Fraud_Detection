@@ -1,4 +1,4 @@
-# Project Name
+# Credit card Fraud Detection Ml model
 
 ## 🚀 Overview
 Project Name is a [short description – e.g., lightweight web app, ML model, data visualization tool] built using [tech stack] to [core functionality or goal]. It is designed for [target audience or use case].
