@@ -74,7 +74,7 @@ After manual undersampling:
 
 ## 🧑‍💻 Author
 
-Harshineeshree - Data Analyst | ML Engineer | AI Enthusiast
+Haroontrailblazer- Data Analyst | ML Engineer | AI Enthusiast
 
 ---
 
